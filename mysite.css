@@ -301,17 +301,17 @@ footer {
 		height: 50px;
 	}
 
-	.menu-box {
+	.menu_box {
 		float: right;
 		width: 40px;
 		height: 40px;
-		margin-right: 5%;
+		margin-right: 0px;
 		border: 1px solid #FAFAFA;
 		margin-top: 5px;
 		margin-bottom: 5px;
 	}
 
-	.list-bar {
+	.bar {
 		display: block;
 		width: 25px;
 		height: 2px;
@@ -319,7 +319,7 @@ footer {
 		background-color: #FAFAFA;
 	}
 
-	.list-bar:first-child {
+	.bar:first-child {
 		margin-top: 10px;
 	}
 
